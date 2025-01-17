@@ -1,0 +1,16 @@
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:67:6:HAL_TIM_Base_MspInit	16	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:91:6:HAL_TIM_MspPostInit	32	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:123:6:HAL_TIM_Base_MspDeInit	8	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:148:6:HAL_MspInit	8	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:173:6:HAL_CRC_MspInit	8	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:196:6:HAL_CRC_MspDeInit	0	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:218:6:HAL_DMA2D_MspInit	16	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:244:6:HAL_DMA2D_MspDeInit	0	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:269:6:HAL_I2C_MspInit	64	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:318:6:HAL_I2C_MspDeInit	8	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:349:6:HAL_LTDC_MspInit	120	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:475:6:HAL_LTDC_MspDeInit	8	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:537:6:HAL_SPI_MspInit	40	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:575:6:HAL_SPI_MspDeInit	0	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:707:6:HAL_SDRAM_MspInit	48	static
+C:/TouchGFXProjects/HeNhung/Core/Src/stm32f4xx_hal_msp.c:793:6:HAL_SDRAM_MspDeInit	8	static

@@ -1,0 +1,17 @@
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:937:13:SPI5_Write	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:1049:6:StartDefaultTask	5
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:248:6:SystemClock_Config	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:156:5:main	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:781:6:IOE_Init	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:790:6:IOE_ITConfig	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:802:6:IOE_Write	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:813:9:IOE_Read	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:826:10:IOE_ReadMultiple	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:835:6:IOE_Delay	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:963:6:LCD_IO_Init	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:973:6:LCD_IO_WriteData	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:989:6:LCD_IO_WriteReg	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:1008:10:LCD_IO_ReadData	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:1035:6:LCD_Delay	1
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:1085:6:HAL_TIM_PeriodElapsedCallback	2
+C:/TouchGFXProjects/HeNhung/Core/Src/main.c:1102:6:Error_Handler	1

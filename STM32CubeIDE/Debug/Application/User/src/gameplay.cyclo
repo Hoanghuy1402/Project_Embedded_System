@@ -1,0 +1,52 @@
+../Application/User/src/gameplay.cpp:27:1:Ship::~Ship()	1
+../Application/User/src/gameplay.cpp:80:1:Boss::~Boss()	1
+../Application/User/src/gameplay.cpp:121:1:Game::~Game()	1
+../Application/User/src/gameplay.cpp:144:1:Entity::~Entity()	1
+../Application/User/src/gameplay.cpp:147:6:virtual bool Entity::update()	1
+../Application/User/src/gameplay.cpp:183:1:Enemy::~Enemy()	1
+../Application/User/src/gameplay.cpp:222:1:Bullet::~Bullet()	1
+../Application/User/src/gameplay.cpp:27:1:virtual Ship::~Ship()	1
+../Application/User/src/gameplay.cpp:80:1:virtual Boss::~Boss()	1
+../Application/User/src/gameplay.cpp:121:1:virtual Game::~Game()	1
+../Application/User/src/gameplay.cpp:144:1:virtual Entity::~Entity()	1
+../Application/User/src/gameplay.cpp:183:1:virtual Enemy::~Enemy()	1
+../Application/User/src/gameplay.cpp:222:1:virtual Bullet::~Bullet()	1
+../Application/User/src/gameplay.cpp:16:1:Ship::Ship()	1
+../Application/User/src/gameplay.cpp:30:6:bool Ship::update(uint8_t)	6
+../Application/User/src/gameplay.cpp:45:6:bool Ship::updateBullet(uint8_t)	2
+../Application/User/src/gameplay.cpp:52:6:void Ship::updateShipHp(short int)	1
+../Application/User/src/gameplay.cpp:56:6:void Ship::updateVelocityX(short int)	3
+../Application/User/src/gameplay.cpp:62:6:void Ship::updateVelocityY(short int)	3
+../Application/User/src/gameplay.cpp:69:1:Boss::Boss()	1
+../Application/User/src/gameplay.cpp:83:6:bool Boss::update(uint8_t)	6
+../Application/User/src/gameplay.cpp:98:6:bool Boss::updateBullet(uint8_t)	2
+../Application/User/src/gameplay.cpp:105:6:void Boss::updateBossHp(short int)	1
+../Application/User/src/gameplay.cpp:109:6:void Boss::updateVelocityX(short int)	1
+../Application/User/src/gameplay.cpp:113:6:void Boss::updateVelocityY(short int)	1
+../Application/User/src/gameplay.cpp:118:1:Game::Game()	1
+../Application/User/src/gameplay.cpp:124:6:void Game::updateScore(short int)	1
+../Application/User/src/gameplay.cpp:128:6:void Game::updateHighScore(short int)	2
+../Application/User/src/gameplay.cpp:134:6:void Game::update()	1
+../Application/User/src/gameplay.cpp:138:1:Entity::Entity()	1
+../Application/User/src/gameplay.cpp:151:6:void Entity::updateDisplayStatus(uint8_t)	1
+../Application/User/src/gameplay.cpp:155:6:void Entity::updateCoordinate(uint16_t, uint16_t)	1
+../Application/User/src/gameplay.cpp:160:6:void Entity::updateVelocity(uint16_t, uint16_t)	1
+../Application/User/src/gameplay.cpp:165:6:static bool Entity::isCollide(Entity&, Entity&)	4
+../Application/User/src/gameplay.cpp:173:1:Enemy::Enemy()	1
+../Application/User/src/gameplay.cpp:186:6:bool Enemy::update(uint8_t)	5
+../Application/User/src/gameplay.cpp:205:6:bool Enemy::updateBullet(uint8_t)	2
+../Application/User/src/gameplay.cpp:213:1:Bullet::Bullet()	1
+../Application/User/src/gameplay.cpp:225:6:bool Bullet::update(uint8_t)	6
+../Application/User/src/gameplay.cpp:274:6:void Boss::resetBoss()	1
+../Application/User/src/gameplay.cpp:280:6:void resetGame()	1
+../Application/User/src/gameplay.cpp:292:6:void tone(TIM_HandleTypeDef*, uint32_t, uint16_t, uint16_t)	4
+../Application/User/src/gameplay.cpp:313:6:void updateBoss(uint8_t)	18
+../Application/User/src/gameplay.cpp:463:6:void Intro()	2
+../Application/User/src/gameplay.cpp:541:6:void Outro()	2
+../Application/User/src/gameplay.cpp:562:6:void noTone(TIM_HandleTypeDef*, uint32_t)	1
+../Application/User/src/gameplay.cpp:656:6:void updateEnemy(uint8_t)	8
+../Application/User/src/gameplay.cpp:703:6:void updateShipBullet(uint8_t)	4
+../Application/User/src/gameplay.cpp:721:6:void updateEnemyBullet(uint8_t)	10
+../Application/User/src/gameplay.cpp:567:6:void gameTask(void*)	18
+../Application/User/src/gameplay.cpp:745:1:cpp)	4
+../Application/User/src/gameplay.cpp:745:1:cpp)	4
